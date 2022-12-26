@@ -1,0 +1,7 @@
+www.google.com 20.20.20.20
+www.google.com 20.20.20.21
+www.google.com 20.20.20.22
+ww.google.com 20.20.20.23
+www.google.com 20.20.20.24
+www.facebook.com 21.21.21.21
+www.amazon.com 19.19.19.19
